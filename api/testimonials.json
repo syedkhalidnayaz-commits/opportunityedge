@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Elena Rostova",
+    "role": "CEO & Co-Founder",
+    "company": "SaaSFlow",
+    "quote": "Opportunity Edge completely transformed our outbound strategy. Within 60 days of launching our ghostwritten executive content, we booked 14 discovery calls with Fortune 500 decision-makers purely from inbound LinkedIn DMs.",
+    "metric": "$280K+",
+    "metricLabel": "Pipeline Generated"
+  },
+  {
+    "name": "Marcus Vance",
+    "role": "Managing Partner",
+    "company": "Scale Ventures",
+    "quote": "As VCs, personal branding is our primary source of deal flow. The team at Opportunity Edge did not just write posts; they aligned my profile with our investment thesis. The quality is unmatched.",
+    "metric": "6.4M",
+    "metricLabel": "Impressions & 4x Dealflow"
+  },
+  {
+    "name": "Steve Jobs",
+    "role": "Co-founder",
+    "company": "Apple",
+    "quote": "This branding engine is a masterpiece. We got multiple high-quality leads in under a month.",
+    "metric": "10x Inbound DMs",
+    "metricLabel": "Sales pipeline growth"
+  }
+]
